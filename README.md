@@ -3,7 +3,7 @@
 ## Deliverable #1
 ### Linear Regression to Predict MPG
 
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/Deliverable1.png)
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -22,8 +22,8 @@ Per the calc, R square = .7149 which means that 71% of all mpg predictions will 
 
 ## Deliverable #2
 ### Summary Stats on Suspension Coils
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D2%20Summary.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D2%20Lot%20Summary%20.png)
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
@@ -33,14 +33,13 @@ When breaking down the summary per Manufacturing Lot we can see that Lots 1 and 
 
 ## Deliverable #3
 ### T-Tests on Suspension Coils
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D3%201%20Sample%20Test.png)
 
 Per the above screenshot, the P-value of 0.06 is slightly larger that our assumed alpha of 0.05 therefore not enough evidence to reject null. 
 
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
-![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
-
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D3%20Lot%201.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D3%20Lot%202.png)
+![name-of-you-image](https://github.com/Nimamotiee/MechaCar_Statistical_Analysis/blob/main/D3%20Lot%203.png)
 Per the above, the only individual lot that we must reject would be Lot 3 as the p-value of 0.04 is lower than our assumed alpha of 0.05. 
 
 

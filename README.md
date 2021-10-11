@@ -32,4 +32,14 @@ When breaking down the summary per Manufacturing Lot we can see that Lots 1 and 
 
 
 ## Deliverable #3
-###
+### T-Tests on Suspension Coils
+![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+
+Per the above screenshot, the P-value of 0.06 is slightly larger that our assumed alpha of 0.05 therefore not enough evidence to reject null. 
+
+![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
+
+Per the above, the only individual lot that we must reject would be Lot 3 as the p-value of 0.04 is lower than our assumed alpha of 0.05. 
+

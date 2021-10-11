@@ -43,3 +43,33 @@ Per the above screenshot, the P-value of 0.06 is slightly larger that our assume
 
 Per the above, the only individual lot that we must reject would be Lot 3 as the p-value of 0.04 is lower than our assumed alpha of 0.05. 
 
+
+## Deliverable #4
+### Study Design: MechaCar vs Competition
+
+* What metric or metrics are you going to test?
+
+The following metrics would be tested: 
+
+Safety Feature Rating: Independent Variable
+Current Price (Selling): Dependent Variable
+Drive Package : Independent Variable
+Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+Resale Value: Independent Variable
+Average Annual Cost of ownership (Maintenance): Independent Variable
+MPG (Gasoline Efficiency): Independent Variable
+
+* What is the null hypothesis or alternative hypothesis?
+Null Hypo- The pricing is appropriate based on performance of key factors.
+Alt Hypo- The pricing is not appropriate based on performance of key factors.
+
+* What statistical test would you use to test the hypothesis? And why?
+
+Multiple Linear Regression 
+
+
+* What data is needed to run the statistical test?
+Key performance data for MechaCar and its competitors over the past 5 years.
+Pricing related to the cars being compared.
+
+
